@@ -1,22 +1,8 @@
 import React from 'react';
 import ReactDOM  from 'react-dom/client';
-// import App from './App';
-// import GetTime from './GetTime';
-// import DigiClock from './DigiClock';
-// import Events from './Events';
-// import Counter from './Counter';
-// import ReactForms from './ReactForms';
-// import LoginForms from './LoginForms';
-// import Calci from './Calci';
-// import USESTATE from './USESTATE';
-// import Useobject from './Useobject';
-// import Todo from './ToDo';
-// import Todolist from './Todolist';
-// import UseEffect from './UseEffect';
-// import UseEffectDependencies from "./UseEffectDependencies";
-// import Randomnumber from './Randomnumber';
-// import Useeffect2 from './Useeffect2';
-import FetchApi from './FetchApi';
+
+ import Randomnumber from './Randomnumber';
+
 import './index.css';
 const root=ReactDOM.createRoot(document.getElementById('root'));
 root.render(<FetchApi/>);
